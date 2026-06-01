@@ -1,0 +1,6 @@
+customer_id,company,status,last_contact_days,priority
+1,Acme Corp,new,0,high
+2,TechFlow,no_reply,14,medium
+3,DataWorks,replied,3,high
+4,StartupX,no_reply,7,low
+5,Global Systems,new,0,medium
